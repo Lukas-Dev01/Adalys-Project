@@ -1,1 +1,1 @@
-Padaryti reviews.
+Padaryti reviews su Jquery.

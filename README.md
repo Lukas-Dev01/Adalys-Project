@@ -1,5 +1,5 @@
 # Adalys-Project
-My First Project with Html, CSS, PHP, Js.
+My First Project with HTML, CSS, PHP, JS.
 
 <br>
 

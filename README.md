@@ -2,9 +2,6 @@
 My First Project with HTML, CSS, PHP, JS.
 
 <br>
-
-My first project was made in my vocational school.
-
 ---
 
 How to open it:
